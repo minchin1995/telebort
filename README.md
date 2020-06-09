@@ -3,7 +3,7 @@
 A typing game that is build using HTML, CSS and JavaScript
 
 ## How to use
-The project can be runned in a localhost (XAMPP).
+The project can be runned in a localhost (like XAMPP).
 
 ## Programming concepts
 A) HTML (index.html) - HTML writes the basic structure of the webpage. The basic display such as the text (name of the game, explanation of the game) to buttons like the start button. Class and ID selectors are also written using HTML to allow CSS or Javascript to identify which part of the webpage it needs to apply it's functions. It also has references linking to both the CSS and JavaScript file.
